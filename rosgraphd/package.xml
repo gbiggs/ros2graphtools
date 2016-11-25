@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format2.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="2">
+  <name>rosgraphd</name>
+  <version>0.1.0</version>
+  <description>A daemon for caching information about the ROS graph.</description>
+  <maintainer email="gbiggs@killbots.net">Geoffrey Biggs</maintainer>
+  <license>Apache License 2.0</license>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+</package>
